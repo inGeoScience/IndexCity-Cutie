@@ -34,8 +34,12 @@ position:relative;width:100%;height:100%;font-family:Microsoft YaHei,sans-serif;
   width:80%;
 }
 
-@media screen and (min-height: 500px) { 
+@media screen and (min-height: 300px) { 
     .white-block{height: 40%} 
+} 
+
+@media screen and (min-height: 500px) { 
+    .white-block{height: 38%} 
 } 
 
 @media screen and (min-height: 753px) { 
